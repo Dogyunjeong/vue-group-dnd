@@ -1,0 +1,19 @@
+{
+  "name": "vue-group-dnd",
+  "description": "A Vue.js drag and drop plug in for list data. It support drag and drop by group",
+  "version": "0.1.0",
+  "author": {
+    "name": "DogyunJeong",
+    "email": "dogun098@gmail.com"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "plugin"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogun098@gmail.com/vue-group-dnd.git"
+  }
+}
