@@ -1,9 +1,9 @@
-#Group drag and drop
+# Group drag and drop
 It is for the multiple drag and drop layout.
 Current drag and drop libraries are not restricted by group or not allowed to move to another dnd layer.
 This component will allow to control dnd layer. It can be dragged and dropped to other layout or not by setting.
 
-#Usage
+# Usage
 `<Drag-and-Drop v-modle="list" group="">`
 `   <dragged-list v-for="(item, idx) in list" idx="idx"/>  `
 `</Drag-and-Drop>`
